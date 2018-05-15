@@ -22,5 +22,6 @@ students = [
 
 students.each do |student|
   puts student
+  puts "---------------"
 
 end
