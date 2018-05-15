@@ -7,16 +7,16 @@
 #   end
 #   counter
 # end
-# 
+#
 # board = [" ", "X", "O", " ", "X", " ", "X ", " ", "O"]
-# 
+#
 # def current_player(board)
 #   turn_count(board).even? ? "X" : "O"
 # end
 
 students = [
-  ["Bruce Banner", "10 Grade", "A+ Average"]
-  ["Tony Stark", "12 Grade", "A+ Average"]
+  ["Bruce Banner", "10 Grade", "A+ Average"],
+  ["Tony Stark", "12 Grade", "A+ Average"],
   ["Thor", "9 Grade", "C Average"]
 ]
 
