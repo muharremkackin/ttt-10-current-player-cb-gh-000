@@ -19,7 +19,7 @@ students = [
   ["Tony Stark", "12 Grade", "A+ Average"],
   ["Thor", "9 Grade", "C Average"]
 ]
-
+puts "---------------"
 students.each do |student|
   puts student
   puts "---------------"
