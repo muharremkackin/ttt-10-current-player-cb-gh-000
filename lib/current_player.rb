@@ -19,7 +19,7 @@ students = [
   ["Tony Stark", "12 Grade", "A+ Average", "I'm rich also wise!"],
   ["Thor", "9 Grade", "C Average", "I have a hammer!"]
 ]
-$students << ["Peter Parker", "5 Grade", "B+ Average", "I'm not insect, I am spider!"]
+$students<< ["Peter Parker", "5 Grade", "B+ Average", "I'm not insect, I am spider!"]
 puts "---------------"
 students.each do |student|
   puts student
