@@ -15,9 +15,9 @@
 # end
 
 students = [
-  ["Bruce Banner", "10 Grade", "A+ Average"],
-  ["Tony Stark", "12 Grade", "A+ Average"],
-  ["Thor", "9 Grade", "C Average"]
+  ["Bruce Banner", "10 Grade", "A+ Average", "Hulk Smash!"],
+  ["Tony Stark", "12 Grade", "A+ Average", "I'm rich also wise!"],
+  ["Thor", "9 Grade", "C Average", "I have a hammer!"]
 ]
 puts "---------------"
 students.each do |student|
