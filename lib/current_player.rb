@@ -21,9 +21,11 @@ students = [
 ]
 students<< ["Peter Parker", "5 Grade", "B+ Average"]
 students[3]<< "I'm not insect, I am spider!"
-puts "---------------"
+puts "**************"
 students.each do |student|
   student.each do |detail|
     puts detail
+    puts "--------------"
   end
+  puts "**************"
 end
