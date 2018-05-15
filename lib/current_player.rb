@@ -23,7 +23,7 @@ students<< ["Peter Parker", "5 Grade", "B+ Average"]
 students[3]<< "I'm not insect, I am spider!"
 puts "---------------"
 students.each do |student|
-  puts student
+  puts student.inspect
   puts "---------------"
 
 end
